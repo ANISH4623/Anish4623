@@ -16,7 +16,7 @@ I'm a passionate and curious CS undergrad (3rd year!) exploring the world of sof
 ## 🛠️ Tech Stack
 
 * **Languages:** Go, Java, Python, C#
-* **Frameworks/Libraries:** Spring Boot, gRPC, Pandas, Scikit-learn, Flask/Django (choose one if applicable)
+* **Frameworks/Libraries:** Spring Boot, gRPC, Pandas, Scikit-learn, Flask, Django , FastApi
 * **Databases:**  MySQL, MongoDB, PostgreSql
 * **Tools:** Git, Docker, Kubernetes, Linux, Vim , Visual Studio Code , Visual Studio  
 
